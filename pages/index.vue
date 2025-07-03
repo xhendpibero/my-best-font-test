@@ -1,6 +1,6 @@
 <template>
   <div class="font-test-container">
-    <h1 class="main-title">Welcome to Font Performance Test</h1>
+    <h1 class="main-title">Welcome to Font Performance Dendy Test</h1>
     
     <section class="font-section">
       <h2 class="mulish-regular">Mulish Regular (400) - Main Content</h2>
