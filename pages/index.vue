@@ -22,7 +22,7 @@
       <h3 class="mulish-regular">Extensive Content Section (100x Repeated)</h3>
       <div class="content-blocks">
         <div 
-          v-for="i in 100" 
+          v-for="i in 2000" 
           :key="i"
           class="content-block"
           :class="i % 2 === 0 ? 'mulish-semibold' : 'mulish-regular'"
